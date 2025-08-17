@@ -1,0 +1,41 @@
+
+==================== LOG ENTRY: 2025-08-17 04:10:15 ====================
+--- STDOUT ---
+This is a test run.
+
+--- STDERR ---
+Traceback (most recent call last):
+  File "/app/day-001/practice.py", line 4, in <module>
+    error_variable = 1 / 0
+                     ~~^~~
+ZeroDivisionError: division by zero
+
+
+==================== LOG ENTRY: 2025-08-17 04:20:34 ====================
+--- STDOUT ---
+This is a test run.
+
+--- STDERR ---
+Traceback (most recent call last):
+  File "/app/day-001/practice.py", line 4, in <module>
+    error_variable = 1 / 0
+                     ~~^~~
+ZeroDivisionError: division by zero
+
+
+==================== LOG ENTRY: 2025-08-17 04:28:17 ====================
+--- CODE AT TIME OF ERROR ---
+# Your Python code for today goes here!
+print("This is a test run.")
+# This line will cause an error
+error_variable = 1 / 0
+
+--- STDOUT ---
+This is a test run.
+
+--- STDERR ---
+Traceback (most recent call last):
+  File "/app/day-001/practice.py", line 4, in <module>
+    error_variable = 1 / 0
+                     ~~^~~
+ZeroDivisionError: division by zero

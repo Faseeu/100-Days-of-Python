@@ -1,0 +1,17 @@
+{
+    "challenge_start_date": "2025-08-17",
+    "total_days": 100,
+    "completed_days": [
+        1
+    ],
+    "missed_days": [],
+    "time_spent": {
+        "1": 99.381804
+    },
+    "error_counts": {
+        "1": 3
+    },
+    "xp": 100,
+    "level": 1,
+    "session_tracking": {}
+}
